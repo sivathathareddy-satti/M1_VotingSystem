@@ -1,2 +1,3 @@
 [![Bulid CI - Linux](https://github.com/sivathathareddy-satti/M1_VotingSystem/actions/workflows/Linux.yml/badge.svg)](https://github.com/sivathathareddy-satti/M1_VotingSystem/actions/workflows/Linux.yml)
 [![Bulid CI - windows](https://github.com/sivathathareddy-satti/M1_VotingSystem/actions/workflows/Windows.yml/badge.svg)](https://github.com/sivathathareddy-satti/M1_VotingSystem/actions/workflows/Windows.yml)
+[![Code Quality - Cppcheck](https://github.com/sivathathareddy-satti/M1_VotingSystem/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/sivathathareddy-satti/M1_VotingSystem/actions/workflows/Cppcheck.yml)
