@@ -6,7 +6,7 @@ BUILD = build
 
 # All source code files
 SRC =mainprogram.c\
-election.c
+src/election.c
 
 #project output
 PROJECT_OUTPUT= $(BUILD)/$(PROJ_NAME).exe
