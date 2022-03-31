@@ -1,1 +1,1 @@
-
+[![Bulid CI - Linux](https://github.com/sivathathareddy-satti/M1_VotingSystem/actions/workflows/Linux.yml/badge.svg)](https://github.com/sivathathareddy-satti/M1_VotingSystem/actions/workflows/Linux.yml)
