@@ -3,3 +3,4 @@
 [![Code Quality - Cppcheck](https://github.com/sivathathareddy-satti/M1_VotingSystem/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/sivathathareddy-satti/M1_VotingSystem/actions/workflows/Cppcheck.yml)
 [![Analysis](https://github.com/sivathathareddy-satti/M1_VotingSystem/actions/workflows/Analysis.yml/badge.svg)](https://github.com/sivathathareddy-satti/M1_VotingSystem/actions/workflows/Analysis.yml)
 [![Unit Testing - Unity](https://github.com/sivathathareddy-satti/M1_VotingSystem/actions/workflows/unit-test.yml/badge.svg)](https://github.com/sivathathareddy-satti/M1_VotingSystem/actions/workflows/unit-test.yml)
+[![CodeQuality-Valgrind](https://github.com/sivathathareddy-satti/M1_VotingSystem/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/sivathathareddy-satti/M1_VotingSystem/actions/workflows/Valgrind.yml)
