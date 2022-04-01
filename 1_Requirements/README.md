@@ -1,7 +1,7 @@
 ## The proposed Voting System developed with the following goals:
 
-1.counting the total number of votes cast
-2.calculating the percentage of total votes
+1.counting the total number of votes cast\n
+2.calculating the percentage of total votes\n
 3.calculating the total votes cast for each candidate
 4.calculating the percentage of votes for each candidate
 5.checking duplication and error in voting
