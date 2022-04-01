@@ -22,9 +22,14 @@
  * After you are login sucessfull you can select person you are favarite person to vote 1 Or 2.
  * it can take the vote from your input and save.
  
- 
+      ![Screenshot (100)](https://user-images.githubusercontent.com/101451780/161317462-02e44f5e-5f63-4c50-9ef5-c3e372e14258.png)
 
-        ![Screenshot (100)](https://user-images.githubusercontent.com/101451780/161317060-bb3644fb-51ae-487f-a129-15066bcff269.png)
+## step 4 :
+*only one voter can vote one time only 
+* once complete id login and vote its does not take vote
+* we can conact the admin to delete his vote history and clear this id data refer the below image.
+
+      ![Screenshot (101)](https://user-images.githubusercontent.com/101451780/161318163-340a9984-755a-4c33-b034-eec219db2c1e.png)
 
 
 
