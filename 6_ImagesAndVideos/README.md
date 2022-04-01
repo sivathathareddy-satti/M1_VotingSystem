@@ -25,12 +25,16 @@
       ![Screenshot (100)](https://user-images.githubusercontent.com/101451780/161317462-02e44f5e-5f63-4c50-9ef5-c3e372e14258.png)
 
 ## step 4 :
-*only one voter can vote one time only 
-* once complete id login and vote its does not take vote
-* we can conact the admin to delete his vote history and clear this id data refer the below image.
+ *only one voter can vote one time only 
+ * once complete id login and vote its does not take vote
+ * we can conact the admin to delete his vote history and clear this id data refer the below image.
 
-      ![Screenshot (101)](https://user-images.githubusercontent.com/101451780/161318163-340a9984-755a-4c33-b034-eec219db2c1e.png)
+     ![Screenshot (101)](https://user-images.githubusercontent.com/101451780/161318372-e2e0cf6d-dade-43bb-884c-a5eb6f47a3f6.png)
 
+## step 5 :
+ * we can contact the admin to delete his vote history and clear this id. to refer the below image.
+ 
+     ![Screenshot (104)](https://user-images.githubusercontent.com/101451780/161320024-d445228c-ec41-4a9b-b5ef-e1ce70a38243.png)
 
 
 
