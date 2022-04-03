@@ -8,7 +8,7 @@
 * 5.checking duplication and error in voting
 * 6.finding the wining candidates in the election based on the total votes they received.
 ***********************************************************************************************************************************************************************
-##Modules Used:
+## Modules Used:
 
 * Keeping the election and voting requirements in mind, Online Voting System has been developed with two modules: administrator module and user module.
 
