@@ -1,8 +1,9 @@
 ## step 1 :
- * Execute the exc file getting 3 options 
- * Click on 2 option Admin
+ * Run file the exc file getting 3 options 
+ * Click on 2 option to Login admin
  * And user id: Admin 
  * Enter password: admiN
+ * give the same login id and password only login
  * After sucessfull login
  
     ![Screenshot (90)](https://user-images.githubusercontent.com/101451780/161313425-14828439-8888-43eb-9e01-10ca24104e6c.png)
