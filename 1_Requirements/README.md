@@ -15,12 +15,12 @@
 * Administrator has the whole authority over the system; they maintain (add, update, modify and delete) records and details of all voters and candidates. 
 * Users, on the other hand, can view the list of voters and candidates, and see results after the election is completed.
 ************************************************************************************************************************************************************************
-##Software Specification:
+## Software Specification:
 
 * Operating system    : Windows xp,7,8,10,11,linux,mac
 * Coding Language    : c programing
 
-##Hardware Specification:
+## Hardware Specification:
 
 * System                : Pentium IV 2.4 GHz
 * Ram                     : 512 MB
