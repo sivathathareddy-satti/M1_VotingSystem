@@ -43,5 +43,5 @@
 | ID | Description | HLR ID | Status |
 | ------ | --------- | ------ | ------ |
 | LR01 | User need to Login with there login | HR03 | Implemented |
-| LR02 | User need to Login with there login after they selcet to vote | HR04 | Implemented |
+| LR02 | User need to Login with there login after they select to vote | HR04 | Implemented |
 | LR03 | Admin need to select the operation to perform and the output will display on the screen  | LR01 | Implemented |
