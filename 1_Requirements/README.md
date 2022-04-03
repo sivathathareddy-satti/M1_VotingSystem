@@ -1,4 +1,4 @@
-## Project Name: Voting System
+## Project Name: M1_Voting System
 * In this project, we make a voting machine in which we have 4 different option to vote each user vote one time and after all the user gives their vote we will conclude   the result and store in our file and we have a full-fledged file in which we store a list of winner party for every year.
 
 * 1.counting the total number of votes cast																														
