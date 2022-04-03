@@ -25,3 +25,23 @@
 * System                : Pentium IV 2.4 GHz
 * Ram                     : 512 MB
 * Hard Disk          : 40 GB
+
+
+## Threats
+* If the student id is wrong No activities can be done.
+
+
+## Detail Requirements
+### High Level Requirements 
+| ID | Description | Status | 
+| ----- | ----- | ----- | 
+| HR01 | Admin need to provide the year and branch code ,roll noto vote | Implemented |
+| HR02 | students need to use the login id to vote | Implemented |
+| HR03 | students need to provide the correct id  to login| Implemented |
+| HR04 | Admin only provied results | Implemented |
+### Low level Requirements
+| ID | Description | HLR ID | Status |
+| ------ | --------- | ------ | ------ |
+| LR01 | User need to Login with there login | HR03 | Implemented |
+| LR02 | User need to Login with there login after they selcet to vote | HR04 | Implemented |
+| LR03 | Admin need to select the operation to perform and the output will display on the screen  | LR01 | Implemented |
